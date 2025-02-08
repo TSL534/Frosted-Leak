@@ -1,0 +1,26 @@
+Terms of Service (ToS) for Frosted
+
+Agreement to Terms
+By using the Frosted, you acknowledge that you understand and agree to these terms. If you disagree, please refrain from using the bot.
+
+Bot's Purpose
+Frosted is designed specifically for testing anti-cheat systems and exploring bot functionalities on Minecraft Realms. It is not intended for malicious or illegal activities. The owners are not liable for any incidents arising from the use of this bot.
+
+Prohibited Activities
+Users are prohibited from engaging in the following:
+
+Unauthorized Access: Any attempts to use the bot for illegal purposes or to access servers or accounts without permission are strictly forbidden.
+Disclaimer of Liability
+The owners of Frosted are not responsible for any damage, including but not limited to loss of data or disruption of service, that may occur as a result of using the bot.
+
+Data Collection
+While using the bot, some data will be saved in our Database for monitoring and improvement purposes. This Data includs Xbox Data , Command Logs and Discord Data.
+
+Amendments to Terms
+The owners reserves the right to modify these terms at any time. Any changes will be communicated via updates on this page. Continued use of the bot after changes constitutes acceptance of the new terms.
+
+Access Termination
+The owner can revoke access to the bot at any time without prior notice if there’s a breach of these terms. Users can also be banned from the bot for any reason deemed necessary.
+
+Contact Information
+For any inquiries or concerns regarding these Terms or the Frosted, please reach out to us in discord.gg/frosted.

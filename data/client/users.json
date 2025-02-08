@@ -1,0 +1,118 @@
+{
+    "959721082078760964": {
+        "linked": false,
+        "commands": [
+            {
+                "timestamp": 1737445670881,
+                "command": "tos",
+                "guildid": "1310689358881357877",
+                "channelid": "1310689359670022164"
+            }
+        ],
+        "xbox": {
+            "linked": true,
+            "xbox": {
+                "xuid": "2535421338311652",
+                "isFavorite": false,
+                "isFollowingCaller": false,
+                "isFollowedByCaller": false,
+                "isIdentityShared": false,
+                "addedDateTimeUtc": null,
+                "displayName": "ScantPuppy19465",
+                "realName": "",
+                "displayPicRaw": "https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcS9jr0n8i7LY1tL3U7AiafWeXUwUzd.UmTjs1siuy7egwApdIrR6s26qKCP_SIBo.EGL8JRWFN2BWBEtZp3p9Gg--&format=png",
+                "showUserAsAvatar": "2",
+                "gamertag": "ScantPuppy19465",
+                "gamerScore": "0",
+                "modernGamertag": "ScantPuppy19465",
+                "modernGamertagSuffix": "",
+                "uniqueModernGamertag": "ScantPuppy19465",
+                "xboxOneRep": "GoodPlayer",
+                "presenceState": "Offline",
+                "presenceText": "Offline",
+                "presenceDevices": null,
+                "isBroadcasting": false,
+                "isCloaked": true,
+                "isQuarantined": false,
+                "isXbox360Gamerpic": false,
+                "lastSeenDateTimeUtc": null,
+                "suggestion": null,
+                "recommendation": null,
+                "search": null,
+                "titleHistory": null,
+                "multiplayerSummary": {
+                    "joinableActivities": [],
+                    "partyDetails": [],
+                    "inParty": 0
+                },
+                "recentPlayer": null,
+                "follower": null,
+                "preferredColor": {
+                    "primaryColor": "107c10",
+                    "secondaryColor": "102b14",
+                    "tertiaryColor": "155715"
+                },
+                "presenceDetails": [],
+                "titlePresence": null,
+                "titleSummaries": null,
+                "presenceTitleIds": null,
+                "detail": {
+                    "accountTier": "Silver",
+                    "bio": "",
+                    "isVerified": false,
+                    "location": "",
+                    "tenure": "0",
+                    "watermarks": [],
+                    "blocked": false,
+                    "mute": false,
+                    "followerCount": 0,
+                    "followingCount": 0,
+                    "hasGamePass": false
+                },
+                "communityManagerTitles": null,
+                "socialManager": null,
+                "broadcast": null,
+                "avatar": null,
+                "linkedAccounts": [],
+                "colorTheme": "gamerpicblur",
+                "preferredFlag": "",
+                "preferredPlatforms": []
+            },
+            "info": {
+                "userXUID": "-",
+                "userHash": "-",
+                "XSTSToken": "-",
+                "expiresOn": "2025-01-21T23:48:24.9010088Z"
+            }
+        },
+        "linkHistory": [
+            {
+                "gamertag": "-",
+                "xuid": "-",
+                "gamerscore": "0",
+                "time": "2025-01-21T07:50:27.820Z"
+            },
+            {
+                "gamertag": "ScantPuppy19465",
+                "xuid": "2535421338311652",
+                "gamerscore": "0",
+                "time": "2025-01-21T07:50:48.696Z"
+            }
+        ],
+        "tos": true,
+        "frosted": {
+            "money": 0,
+            "realms": 0,
+            "cmds": 3,
+            "premium": true,
+            "premiumtime": 0,
+            "premiummonths": 0,
+            "betatester": true,
+            "staff": false,
+            "realmCrashes": 0,
+            "realmNukes": 0,
+            "honeypotFlagges": 0,
+            "streak": 0
+        }
+    }
+}

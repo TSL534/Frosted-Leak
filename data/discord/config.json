@@ -1,0 +1,30 @@
+{
+    "main" : {
+        "token" : "Your Bot Token",
+        "id" : "Your App ID"
+    },
+    "logging" : {
+        "roleupdates": "Channel ID",
+        "guildcreate" : "Channel ID",
+        "guildremove" : "Channel ID",
+        "commandused": "Channel ID",
+        "arasralt": "Channel ID"
+        
+    },
+    "status": [
+        "A Status Message1",
+        "A Status Message2",
+        "A Status Message3"
+      ],
+    "link": "discord.gg/your link",
+    "webhooks": {
+        "arasralt": "Weebhook"
+    },
+    "embeds": {
+        "color": "#89CFF0",
+        "footer": "Your Text |your link",
+        "footerurl": "Picture"
+    },
+    "targetServerId": "Server Id",
+    "targetRoleId": "Role ID"
+}
